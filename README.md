@@ -44,10 +44,10 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 <!-- Data sets, API documentation, and tools that integrate with other Scouting systems. -->
 
 - [Scouting411](https://github.com/kevin8181/scouting411) - Aggregator of national Scouting America news and resources.
-- [Open Scout API](https://github.com/sethmay/open-scout-api) - Versioned JSON reference data for councils, camps, merit badges, ranks, and awards, with sources for each fact.
+- [Open Scout API](https://github.com/sethmay/open-scout-api) - Unofficial API serving versioned JSON reference data for councils, camps, merit badges, ranks, and awards, with sources for each fact.
 - [Scout Requirements Archive](https://github.com/dasevilla/scout-archive) - Machine-readable archive of merit badge and Cub Scout adventure requirements, with history tracked in Git.
-- [Scouting America API](https://github.com/mmarseglia/scouting-api) - OpenAPI specification and Postman collection for the unofficial Scouting America API.
-- [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the unofficial Scouting America API as read-only tools.
+- [Scouting America API](https://github.com/mmarseglia/scouting-api) - OpenAPI specification and Postman collection documenting the official, undocumented Scouting America API.
+- [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the official, undocumented Scouting America API as read-only tools.
 
 ## Events and Fundraising
 
