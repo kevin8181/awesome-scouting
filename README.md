@@ -25,7 +25,7 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 
 ## Developer Tools
 
-- [Scouting America API](https://github.com/mmarseglia/scouting-api) - OpenAPI specification and Postman collection documenting the official, undocumented Scouting America API.
+- [Scouting America API](https://github.com/kevin8181/scouting-api) - Unofficial OpenAPI specification and hosted docs for the official, undocumented Scouting America API.
 - [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the official, undocumented Scouting America API as read-only tools.
 - [Open Source Scouting Design System](https://github.com/OpenSourceScouting/design-system) - React and Tailwind component library themed to the Scouting America brand and its program sub-brands.
 
