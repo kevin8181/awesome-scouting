@@ -19,6 +19,8 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 
 <!-- Rosters, dues, permission slips, and general unit administration. -->
 
+- [Scoutplan](https://github.com/scoutplan/scoutplan) - Unit management app for event scheduling, family RSVPs, messaging, payments, and packing lists.
+
 ## Advancement
 
 <!-- Tracking ranks, merit badges, adventures, and awards. -->
@@ -32,6 +34,7 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 <!-- Campout planning, meal planning, gear lists, and high adventure prep. -->
 
 - [Camp Finder](https://github.com/sethmay/camp-finder) - Searchable directory of Scouts BSA resident summer camps, filterable by distance, program, and features.
+- [Scout Packer](https://github.com/spockmay/scout-packer) - Offline-capable web app that builds a trip packing checklist from the dates, location, and weather forecast.
 
 ## Websites and Templates
 
@@ -54,6 +57,9 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 <!-- Pinewood derby software, camporee scoring, and fundraiser tracking. -->
 
 - [KernelWorx](https://github.com/dmeiser/kernelworx) - Popcorn sales tracker for Scouts and families, with orders, campaigns, and unit reports.
+- [DerbyNet](https://github.com/jeffpiazza/derbynet) - Pinewood Derby race management system with a web server, database, and support for hardware timers.
+- [SpeedRacer](https://github.com/chtzvt/speedRacer) - Raspberry Pi Pinewood Derby track timer that shows live lane times over a local Wi-Fi web interface.
+- [Open Pinewood Derby Timer](https://github.com/jpswensen/OpenPinewoodDerbyTimer) - Open hardware 8-lane Pinewood Derby timer with ESP32 firmware and a web app for heats, live results, and certificates.
 
 ## Activities and Games
 
