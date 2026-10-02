@@ -4,19 +4,37 @@
 
 Built by Scouts, leaders, and volunteers, for everyone in the movement: Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Every project here is community-made and free to use. Official Scouting America websites, apps, and publications are intentionally excluded.
 
+⚜️ marks projects maintained by [Scouting Commons](https://github.com/scouting-commons), the organization behind this list.
+
 _Have something to add? [Contribute](#contributing). Do a Good Turn Daily._
 
 ## Contents
 
+- [Open Data](#open-data)
+- [Developer Tools](#developer-tools)
 - [Unit Management](#unit-management)
 - [Advancement](#advancement)
 - [Council Tools](#council-tools)
-- [Open Data](#open-data)
-- [Developer Tools](#developer-tools)
 - [Trip Planning](#trip-planning)
 - [Pinewood Derby](#pinewood-derby)
 - [Maker Projects](#maker-projects)
 - [Books](#books)
+
+## Open Data
+
+_Structured, machine-readable Scouting data you can build on._
+
+- [Scouting411](https://github.com/scouting-commons/scouting411) ⚜️ - Aggregator of national Scouting America news and resources.
+- [Open Scout API](https://github.com/sethmay/open-scout-api) - Unofficial API serving versioned JSON reference data for councils, camps, merit badges, ranks, and awards, with sources for each fact.
+- [Scout Requirements Archive](https://github.com/dasevilla/scout-archive) - Machine-readable archive of merit badge and Cub Scout adventure requirements, with history tracked in Git.
+
+## Developer Tools
+
+_API specs, integrations, and UI components for building your own Scouting software._
+
+- [scouting-api](https://github.com/scouting-commons/scouting-api) ⚜️ - Unofficial OpenAPI specification, hosted docs, and TypeScript client for the official Scouting America API.
+- [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the official Scouting America API as read-only tools.
+- [Open Source Scouting Design System](https://github.com/OpenSourceScouting/design-system) - React and Tailwind component library themed to the Scouting America brand and its program sub-brands.
 
 ## Unit Management
 
@@ -40,22 +58,6 @@ _Software for councils and districts supporting many units at once._
 
 - [GCC Chat](https://github.com/ASUCICREPO/scouting-america-gcc) - Bilingual English/Spanish AI chat assistant that answers volunteer and family questions from council documents, with an admin dashboard.
 - [BeAScout](https://github.com/iwolf81/beascout) - Audits unit listings on BeAScout.org against the council's unit registry, producing district quality reports and improvement emails for unit leaders.
-
-## Open Data
-
-_Structured, machine-readable Scouting data you can build on._
-
-- [Scouting411](https://github.com/scouting-commons/scouting411) - Aggregator of national Scouting America news and resources.
-- [Open Scout API](https://github.com/sethmay/open-scout-api) - Unofficial API serving versioned JSON reference data for councils, camps, merit badges, ranks, and awards, with sources for each fact.
-- [Scout Requirements Archive](https://github.com/dasevilla/scout-archive) - Machine-readable archive of merit badge and Cub Scout adventure requirements, with history tracked in Git.
-
-## Developer Tools
-
-_API specs, integrations, and UI components for building your own Scouting software._
-
-- [Scouting America API](https://github.com/scouting-commons/scouting-api) - Unofficial OpenAPI specification and hosted docs for the official, undocumented Scouting America API.
-- [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the official, undocumented Scouting America API as read-only tools.
-- [Open Source Scouting Design System](https://github.com/OpenSourceScouting/design-system) - React and Tailwind component library themed to the Scouting America brand and its program sub-brands.
 
 ## Trip Planning
 
