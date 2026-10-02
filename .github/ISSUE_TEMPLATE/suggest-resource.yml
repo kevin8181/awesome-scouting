@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for the suggestion! Please read the [contribution guidelines](https://github.com/kevin8181/awesome-scouting/blob/main/CONTRIBUTING.md) and search existing issues and pull requests to avoid duplicates.
+        Thanks for the suggestion! Please read the [contribution guidelines](https://github.com/scouting-commons/awesome-scouting/blob/main/CONTRIBUTING.md) and search existing issues and pull requests to avoid duplicates.
 
         If you can, open a pull request instead. It's the fastest way to get a project added.
   - type: input

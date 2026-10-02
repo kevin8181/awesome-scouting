@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Contribution guidelines
-    url: https://github.com/kevin8181/awesome-scouting/blob/main/CONTRIBUTING.md
+    url: https://github.com/scouting-commons/awesome-scouting/blob/main/CONTRIBUTING.md
     about: Read what belongs on the list and how to add an entry with a pull request.

@@ -1,6 +1,6 @@
 <!--
 Thanks for contributing! Please read the contribution guidelines first:
-https://github.com/kevin8181/awesome-scouting/blob/main/CONTRIBUTING.md
+https://github.com/scouting-commons/awesome-scouting/blob/main/CONTRIBUTING.md
 
 Title your pull request "Add Project Name". For fixes or removals, describe the change, like "Fix DerbyNet link" or "Remove Project Name".
 -->
