@@ -2,7 +2,9 @@
 
 > Open-source software and free resources for Scouting America units and programs.
 
-Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built projects that are free to use are listed here. Official Scouting America websites, apps, and publications are intentionally excluded.
+Built by Scouts, leaders, and volunteers, for everyone in the movement: Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Every project here is community-made and free to use. Official Scouting America websites, apps, and publications are intentionally excluded.
+
+*Have something to add? [Contribute](#contributing). Do a Good Turn Daily.*
 
 ## Contents
 
@@ -18,6 +20,8 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built p
 
 ## Unit Management
 
+*Run your pack, troop, crew, or ship: calendars, RSVPs, rosters, and fundraising.*
+
 - [Scoutplan](https://github.com/scoutplan/scoutplan) - Unit management app for event scheduling, family RSVPs, messaging, payments, and packing lists.
 - [KernelWorx](https://github.com/dmeiser/kernelworx) - Popcorn sales tracker for Scouts and families, with orders, campaigns, and unit reports.
 - [Scouting Automation](https://github.com/johndball/scouting-automation) - Google Apps Script projects for calendar digests, RSVP and transportation forms, and leader and Scout self-service portals.
@@ -25,15 +29,21 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built p
 
 ## Advancement
 
+*Study aids and paperwork helpers for ranks, merit badges, and adventures.*
+
 - [Merit Badge Workbook](https://github.com/marcb1387/merit-badge-workbook) - Desktop app and CLI that generates printable requirement checklists, note-taking workbooks, and blue cards for any merit badge.
 - [Scout Anki](https://github.com/dasevilla/scout-anki) - Builds Anki flashcard decks for learning merit badges and Cub Scout adventures by sight from their patch images.
 
 ## Council Tools
 
+*Software for councils and districts supporting many units at once.*
+
 - [GCC Chat](https://github.com/ASUCICREPO/scouting-america-gcc) - Bilingual English/Spanish AI chat assistant that answers volunteer and family questions from council documents, with an admin dashboard.
 - [BeAScout](https://github.com/iwolf81/beascout) - Audits unit listings on BeAScout.org against the council's unit registry, producing district quality reports and improvement emails for unit leaders.
 
 ## Open Data
+
+*Structured, machine-readable Scouting data you can build on.*
 
 - [Scouting411](https://github.com/kevin8181/scouting411) - Aggregator of national Scouting America news and resources.
 - [Open Scout API](https://github.com/sethmay/open-scout-api) - Unofficial API serving versioned JSON reference data for councils, camps, merit badges, ranks, and awards, with sources for each fact.
@@ -41,16 +51,22 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built p
 
 ## Developer Tools
 
+*API specs, integrations, and UI components for building your own Scouting software.*
+
 - [Scouting America API](https://github.com/kevin8181/scouting-api) - Unofficial OpenAPI specification and hosted docs for the official, undocumented Scouting America API.
 - [Scouting America MCP](https://github.com/awfrazer/scouting-america-mcp) - Model Context Protocol server exposing the official, undocumented Scouting America API as read-only tools.
 - [Open Source Scouting Design System](https://github.com/OpenSourceScouting/design-system) - React and Tailwind component library themed to the Scouting America brand and its program sub-brands.
 
 ## Trip Planning
 
+*Find a camp and pack the right gear.*
+
 - [Camp Finder](https://github.com/sethmay/camp-finder) - Searchable directory of Scouts BSA resident summer camps, filterable by distance, program, and features.
 - [Scout Packer](https://github.com/spockmay/scout-packer) - Offline-capable web app that builds a trip packing checklist from the dates, location, and weather forecast.
 
 ## Pinewood Derby
+
+*Race management software and track timers for the Cub Scout classic.*
 
 - [DerbyNet](https://github.com/jeffpiazza/derbynet) - Pinewood Derby race management system with a web server, database, and support for hardware timers.
 - [SpeedRacer](https://github.com/chtzvt/speedRacer) - Raspberry Pi Pinewood Derby track timer that shows live lane times over a local Wi-Fi web interface.
@@ -59,13 +75,17 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built p
 
 ## Maker Projects
 
+*Plans and designs to build in the shop or with the den.*
+
 - [Cub Scout Bridge](https://github.com/MaslowCommunityGarden/Cub-Scout-Bridge) - CNC plans for a collapsible plywood bridge for Arrow of Light bridging ceremonies, with G-code, CAD files, and assembly instructions.
 
 ## Books
+
+*Free reading on Scouting's history and methods.*
 
 - [Aids to Scoutmastership](https://github.com/deekayen/aidstoscoutmastership) - Markdown edition of Baden-Powell's guide for Scoutmasters, built into HTML, EPUB, MOBI, and PDF.
 - [Baden-Powell on Project Gutenberg](https://www.gutenberg.org/ebooks/author/2144) - Free public-domain ebooks by Scouting's founder, including Scouting for Boys and Young Knights of the Empire.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first, then add one entry per pull request. Know a great project but don't have time to add it? [Open an issue](https://github.com/kevin8181/awesome-scouting/issues/new) and someone will take a look.
