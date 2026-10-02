@@ -2,15 +2,17 @@
 
 ## What belongs here
 
-- Open-source projects built for Scouting America units, leaders, Scouts, or families.
-- Projects with a public source repository and an [OSI-approved license](https://opensource.org/licenses).
-- Projects that are maintained and documented.
+- Community-built projects for Scouting America units, leaders, Scouts, families, or councils. This includes software, data, books and other texts, and hardware or maker designs.
+- Software with a public source repository and an [OSI-approved license](https://opensource.org/licenses).
+- Other works, such as texts, data, and designs, that anyone can access for free. Open licenses and public-domain works are preferred.
+- Projects with enough documentation for someone else to use or adapt them. Projects built for one unit or council are welcome if their source is public.
 
 ## What does not belong here
 
 - Official Scouting America websites, apps, or publications, including PDFs.
 - Closed-source or proprietary software, even if it's free.
-- Projects that are archived, abandoned, or have no documentation.
+- Paid products, or works behind a paywall or sign-up.
+- Software that is archived or abandoned. Finished works like books and designs don't need ongoing updates.
 - Council or unit websites, unless the site's source is published as a reusable template.
 
 ## Adding an entry
