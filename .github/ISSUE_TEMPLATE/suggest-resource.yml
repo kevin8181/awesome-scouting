@@ -1,0 +1,64 @@
+name: Suggest a resource
+description: Recommend a project for the list when you can't open a pull request yourself.
+title: "Suggest: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion! Please read the [contribution guidelines](https://github.com/kevin8181/awesome-scouting/blob/main/CONTRIBUTING.md) and search existing issues and pull requests to avoid duplicates.
+
+        If you can, open a pull request instead. It's the fastest way to get a project added.
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      description: Use the project's official name and capitalization.
+      placeholder: DerbyNet
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Source repository for software, or the free access page for other works.
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Unit Management
+        - Advancement
+        - Council Tools
+        - Open Data
+        - Developer Tools
+        - Trip Planning
+        - Pinewood Derby
+        - Maker Projects
+        - Books
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it's awesome
+      description: What does it do, and who in Scouting would use it?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The project is community-built, not an official Scouting America website, app, or publication.
+          required: true
+        - label: It's free to use, with no paywall or sign-up. Software has a public repository and an OSI-approved license.
+          required: true
+        - label: It's documented well enough for someone else to use it, and software is actively maintained.
+          required: true
+        - label: I searched existing issues and pull requests for duplicates.
+          required: true

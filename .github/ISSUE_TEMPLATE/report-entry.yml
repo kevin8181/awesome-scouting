@@ -1,0 +1,31 @@
+name: Report a problem with an entry
+description: Flag a broken link, an archived or abandoned project, or an inaccurate description.
+title: "Problem: "
+labels: ["bug"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Name of the listed project.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Broken or moved link
+        - Project is archived or abandoned
+        - Description is inaccurate or outdated
+        - Doesn't meet the contribution guidelines
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What's wrong, and what should change? Include a new link or suggested description if you have one.
+    validations:
+      required: true
