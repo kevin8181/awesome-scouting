@@ -11,6 +11,7 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 - [Developer Tools](#developer-tools)
 - [Trip Planning](#trip-planning)
 - [Pinewood Derby](#pinewood-derby)
+- [Books](#books)
 
 ## Unit Management
 
@@ -39,6 +40,11 @@ Covers Cub Scouts, Scouts BSA, Venturing, and Sea Scouts. Only community-built, 
 - [DerbyNet](https://github.com/jeffpiazza/derbynet) - Pinewood Derby race management system with a web server, database, and support for hardware timers.
 - [SpeedRacer](https://github.com/chtzvt/speedRacer) - Raspberry Pi Pinewood Derby track timer that shows live lane times over a local Wi-Fi web interface.
 - [Open Pinewood Derby Timer](https://github.com/jpswensen/OpenPinewoodDerbyTimer) - Open hardware 8-lane Pinewood Derby timer with ESP32 firmware and a web app for heats, live results, and certificates.
+
+## Books
+
+- [Aids to Scoutmastership](https://github.com/deekayen/aidstoscoutmastership) - Markdown edition of Baden-Powell's guide for Scoutmasters, built into HTML, EPUB, MOBI, and PDF.
+- [Baden-Powell on Project Gutenberg](https://www.gutenberg.org/ebooks/author/2144) - Free public-domain ebooks by Scouting's founder, including Scouting for Boys and Young Knights of the Empire.
 
 ## Contributing
 
